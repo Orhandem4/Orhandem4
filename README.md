@@ -14,5 +14,4 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orhandem4&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
         </a>
     </div>
-    
     <a href="https://wakatime.com"><img src="https://wakatime.com/share/@orhandem4/92a695a4-9f98-46f0-a8a1-abe0ea0c574c.png" /></a>
