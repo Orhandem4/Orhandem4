@@ -19,7 +19,8 @@ Hello there👋
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,discord,github,java,vscode,idea" />
   </a>
-</p>   
+</p> 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Orhandem4.visitor-badge&left_text=Profile%20views)
 <div>
         <a href="https://github.com/Orhandem4">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orhandem4&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
