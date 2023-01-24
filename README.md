@@ -6,7 +6,6 @@ Hello there👋
 📫 How to reach me : orhandem4@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Orhandem4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div>
         <a href="https://github.com/Orhandem4">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=Orhandem4&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
@@ -15,12 +14,11 @@ Hello there👋
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Orhandem4&theme=radical&date_format=j%20M%5B%20Y%5D" />
         </a>
     </div>
-    <p align="center">
+    <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,discord,github,java,vscode,idea" />
   </a>
 </p> 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Orhandem4.visitor-badge&left_text=Profile%20views)
 <div>
         <a href="https://github.com/Orhandem4">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orhandem4&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
