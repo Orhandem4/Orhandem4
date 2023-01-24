@@ -9,10 +9,11 @@
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Orhandem4&theme=radical&date_format=j%20M%5B%20Y%5D" />
         </a>
     </div>
-    
-    [![My Skills](https://skillicons.dev/icons?i=git,discord,github,java,vscode,idea)]
-    
-    
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,github,java,vscode,idea" />
+  </a>
+</p>   
 <div>
         <a href="https://github.com/Orhandem4">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orhandem4&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
