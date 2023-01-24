@@ -1,4 +1,11 @@
+<--
+Hello there👋
 
+🔭 I’m currently learning on Java.
+
+📫 How to reach me : orhandem4@gmail.com
+
+-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Orhandem4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
